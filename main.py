@@ -8,5 +8,5 @@ def convert(seconds):
     print(f'{days}:{hours}:{minutes}:{seconds}')
 
 
-Seconds = int(input())
+Seconds = int(input('Enter seconds'))
 convert(Seconds)
